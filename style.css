@@ -1,4 +1,24 @@
 /* add code here to make your image 300px square */
+body {
+    background: plum;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    font-size: 35px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+    height: 300px solid;
+    border-radius: 25px;
+}
+ ol {
+    color:purple
+ }
 
 /* add code here to change the color and font family of your name/title */
 
